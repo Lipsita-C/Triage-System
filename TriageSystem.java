@@ -1,7 +1,4 @@
-/*
- * CPSC 5003, Seattle University
- * This is free and unencumbered software released into the public domain.
- */
+
 package rwang_P2X;
 
 import java.io.File;
