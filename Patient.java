@@ -1,12 +1,9 @@
-/*
- * CPSC 5003, Seattle University
- * This is free and unencumbered software released into the public domain.
- */
+
 package rwang_P2X;
 
 /**
  * Emergency waiting room patient representation.
- * @author Ruifeng Wang
+ 
  */
 public class Patient {
     private int priorityCode;   // patient's assigned priority
