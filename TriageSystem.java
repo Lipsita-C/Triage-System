@@ -6,11 +6,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * User interface for hospital emergency room triaging system
- * @author Ruifeng Wang
- * @version 1.0
- */
 public class TriageSystem {
     private static final String MSG_WELCOME = "Welcome to the hospital "
     		+ "emergency room triaging system.";
