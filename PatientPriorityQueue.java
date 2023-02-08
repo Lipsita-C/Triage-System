@@ -9,7 +9,6 @@ import rwang_P2.Patient;
 
 /**
  * Hospital triage system implemented using a heap.
- * @author Ruifeng Wang
  */
 public class PatientPriorityQueue {
     private ArrayList<Patient> patients; // heap property is always satisfied
